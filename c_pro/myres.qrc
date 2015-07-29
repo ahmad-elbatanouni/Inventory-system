@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>E:/Java Projects/Java_RTC_Example(MVC)/src/Icon/1367419602_DeleteRed.png</file>
+        <file>E:/Java Projects/Java_RTC_Example(MVC)/src/Icon/inventory.png</file>
+        <file>E:/Java Projects/Java_RTC_Example(MVC)/src/Icon/1367421450_add-to-database.png</file>
+        <file>E:/Java Projects/Java_RTC_Example(MVC)/src/Icon/Remove.png</file>
+        <file>E:/Java Projects/Java_RTC_Example(MVC)/src/Icon/exit.png</file>
+        <file>E:/Java Projects/Java_RTC_Example(MVC)/src/Icon/show_database.png</file>
+        <file>E:/Java Projects/Java_RTC_Example(MVC)/src/Icon/delete.png</file>
+        <file>E:/Java Projects/Java_RTC_Example(MVC)/src/Icon/edit.png</file>
+        <file>E:/Java Projects/Java_RTC_Example(MVC)/src/Icon/proceed.png</file>
+        <file>E:/Java Projects/Java_RTC_Example(MVC)/src/Icon/add_tab2.png</file>
+        <file>E:/Java Projects/Java_RTC_Example(MVC)/src/Icon/change_db.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,2 @@
+ |12-23-53|intro to pattern design|157|$34|pro|13
+ |563-456-256|Networking|13|$80|prog|45

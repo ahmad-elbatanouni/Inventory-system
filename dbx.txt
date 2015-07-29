@@ -1,0 +1,15 @@
+ |23-456-1362|mirrors|124|$2.9|home|2
+ |13-35-35|Plastic cups|1400|$0.3|Plastic|19
+ |98-32-56|Glass cups|424|$0.8|Glass|15
+ |96-2789-566|Plastic Guns|1574|$1|Toys|4
+ |546-336-898|Plastic Whistles|940|$0.5|Toys|5
+ |656-68-255|Violins|120|$70|Musical Instruments|1
+ |676-329-279|Trumpets|68|$99|Musical Instruments|6
+ |573-490-928|Keyboards|45|$100|Musical Instruments|7
+ |789-205-663|Cellos|20|$130|Musical Instruments|13
+ |919-462-356|Glasses|2100|$10|Personal Stuff|3
+ |864-257-225|Plastic Balls|405|$2.7|Toys|8
+ |967-367-367|Cover Balls|556|$6|Toys|9
+ |486-366-267|Candles|4200|$0.2|Home Stuff|10
+ |863-622-892|Wall Watches|70|$40|Home Stuff|11
+ |829-247-89354|Personal Watches|420|$12|Personal Stuff|12
